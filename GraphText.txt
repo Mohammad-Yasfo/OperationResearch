@@ -1,0 +1,14 @@
+a b c d e f g h i
+e1 a b
+e2 b c
+e3 b e
+e4 c e
+e5 c d
+e6 e d
+e7 e f
+e8 d f
+e9 d g
+e10 d h
+e11 f g
+e12 g h
+e13 h i
